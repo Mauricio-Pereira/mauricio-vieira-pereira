@@ -1,0 +1,11 @@
+table {
+    border-style: groove;
+}
+
+table td {
+    border-style: double;
+}
+
+table th {
+    border-style: double;
+}

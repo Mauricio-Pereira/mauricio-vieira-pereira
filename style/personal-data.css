@@ -1,0 +1,19 @@
+.personal-data h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    color: rgb(168, 0, 0);
+    border-color: rgb(82, 82, 82);
+    background-color: rgb(213, 194, 172);
+
+    border-width: 0.25rem;
+    border-radius: 1rem;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    border-right-style: solid;
+}
+.personal-data{
+    color:aliceblue;
+    background-image: url(/imagens/coding.png);
+    background-size: cover;
+}
